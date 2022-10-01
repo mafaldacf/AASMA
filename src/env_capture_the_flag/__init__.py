@@ -1,0 +1,1 @@
+from env_capture_the_flag.env_capture_the_flag import EnvCaptureTheFlag
